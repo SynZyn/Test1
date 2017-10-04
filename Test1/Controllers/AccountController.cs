@@ -18,7 +18,7 @@ namespace Test1.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
-        //dsahdjsakjfhsdkjhfkjsdhfkjsdhfkjsdhfkdsjhfkdskfjdshkj
+       
         public AccountController()
         {
         }
